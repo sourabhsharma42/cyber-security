@@ -1,3 +1,7 @@
+IP:- or Internet Protocol, is the protocol that is used to define the source and destination IP address of a packet as it traverses the internet. It is often used in conjunction with other protocols such as TCP; hence, the often-used conjunction, TCP/IP.
+
+Protocols :- Protocols are similar. A protocol simply defines a way of communication with all its rules. These rules are usually defined by an RFC (Request for Comments).
+
 The OSI Model from a Cybersecurity Perspective
     1. APPICATIONS - EXPOIT
     2. Presentation - phishing
