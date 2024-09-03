@@ -1,0 +1,8 @@
+The OSI Model from a Cybersecurity Perspective
+    1. APPICATIONS - EXPOIT
+    2. Presentation - phishing
+    3. Session - Hijacking
+    4. Transport - reconnaissance
+    5. Network - Man-in-the-Middle MiTM
+    6. Data Link - SPOOFING
+    7. Physical - sniffing
