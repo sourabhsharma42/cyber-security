@@ -10,3 +10,8 @@ The OSI Model from a Cybersecurity Perspective
     5. Network - Man-in-the-Middle MiTM
     6. Data Link - SPOOFING
     7. Physical - sniffing
+
+Generic Domains: .com(commercial), .edu(educational), .mil(military), .org(nonprofit organization), .net(similar to commercial) all these are generic domains.
+Country Domain: .in (India) .us .uk
+Inverse Domain: if we want to know what is the domain name of the website. IP to domain name mapping. So DNS can provide both the mapping for example to find the IP addresses of geeksforgeeks.org then we have to type 
+Organization of Domain : parulunivarcity.ac.in
