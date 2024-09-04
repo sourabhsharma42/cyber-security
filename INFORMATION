@@ -32,3 +32,22 @@ http/3:-
 1. HTTP/3 is built on top of the QUIC (Quick UDP Internet Connections) protocol, which uses UDP (User Datagram Protocol)
 2. HTTP/3 reduces the time it takes to establish a connection with a server.connection setup into a single process, reducing latency.
 3. End-to-End Security: Like HTTPS, HTTP/3 is encrypted by default, ensuring data security and privacy for users.
+
+Sniffing
+Involves intercepting and collecting network traffic as it passes through a network. Sniffing can be used by network administrators to monitor and troubleshoot network traffic, or by attackers to capture sensitive information like passwords and account details. Sniffing can be done actively or passively.
+
+Spoofing
+Involves disguising a communication or identity to make it appear to come from a trusted source. Spoofing can be used to gain access to personal information, steal data, spread malware, or acquire money. Spoofing attacks can take many forms, including email spoofing and caller ID spoofing. 
+
+Wireless Networks
+1. wlan
+2. wpan
+3. wman
+2. wwan
+
+2 IP WHY?
+*Multiple Network Interfaces: You have both Ethernet and Wi-Fi connections active, each with its own IP address.
+*IPv4 and IPv6 Addresses: Your network may be using both IPv4 and IPv6, so you see one of each.
+*Virtual Network Adapters: Virtualization software may create additional virtual network interfaces with their own IP addresses.
+*VPN Connection: A VPN may create a virtual network adapter with a separate IP address.
+*APIPA Address: Your system may have self-assigned an APIPA address (169.254.x.x) if it couldn’t get an IP from the DHCP server.
