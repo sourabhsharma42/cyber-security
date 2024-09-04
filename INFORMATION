@@ -15,3 +15,20 @@ Generic Domains: .com(commercial), .edu(educational), .mil(military), .org(nonpr
 Country Domain: .in (India) .us .uk
 Inverse Domain: if we want to know what is the domain name of the website. IP to domain name mapping. So DNS can provide both the mapping for example to find the IP addresses of geeksforgeeks.org then we have to type 
 Organization of Domain : parulunivarcity.ac.in
+
+classes based on their network size, range, and purpose. The most commonly discussed IP address classes are A, B, C, D, and E. Each class is defined by the leading bits in the first octet (the first 8 bits) and serves different purposes in network architecture.
+A. 1.Range: 1.0.0.0 to 126.0.0.0
+   2.Default Subnet Mask: 255.0.0.0
+B. 1. Range: 128.0.0.0 to 191.255.0.0
+   2. Default Subnet Mask: 255.255.0.0
+C
+Range: 192.0.0.0 to 223.255.255.0
+Default Subnet Mask: 255.255.255.0
+D (Multicast)
+Range: 224.0.0.0 to 239.255.255.255
+Purpose: Used for multicast groups, where data is sent to multiple hosts simultaneously.
+
+http/3:-
+1. HTTP/3 is built on top of the QUIC (Quick UDP Internet Connections) protocol, which uses UDP (User Datagram Protocol)
+2. HTTP/3 reduces the time it takes to establish a connection with a server.connection setup into a single process, reducing latency.
+3. End-to-End Security: Like HTTPS, HTTP/3 is encrypted by default, ensuring data security and privacy for users.
