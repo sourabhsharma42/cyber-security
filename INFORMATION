@@ -16,7 +16,7 @@ Country Domain: .in (India) .us .uk
 Inverse Domain: if we want to know what is the domain name of the website. IP to domain name mapping. So DNS can provide both the mapping for example to find the IP addresses of geeksforgeeks.org then we have to type 
 Organization of Domain : parulunivarcity.ac.in
 
-classes based on their network size, range, and purpose. The most commonly discussed IP address classes are A, B, C, D, and E. Each class is defined by the leading bits in the first octet (the first 8 bits) and serves different purposes in network architecture.
+classes based on their network size, range, and purpose. The most commonly discussed IP address classes are A, B, C. Each class is defined by the leading bits in the first octet (the first 8 bits) and serves different purposes in network architecture.
 A. 1.Range: 1.0.0.0 to 126.0.0.0
    2.Default Subnet Mask: 255.0.0.0
 B. 1. Range: 128.0.0.0 to 191.255.0.0
@@ -50,3 +50,14 @@ Wireless Networks
         *Virtual Network Adapters: Virtualization software may create additional virtual network interfaces with their own IP addresses.
         *VPN Connection: A VPN may create a virtual network adapter with a separate IP address.
         *APIPA Address: Your system may have self-assigned an APIPA address (169.254.x.x) if it couldn’t get an IP from the DHCP server.
+
+NMAP:-
+    command-line tool
+use :- network exploration and security auditing
+    Real time information of a network
+    Detailed information of all the IPs activated on your network
+    Number of ports open in a network
+    Provide the list of live hosts
+    Port, OS and Host scanning
+    penetration testing 
+    vulnerability scans
